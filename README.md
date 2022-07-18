@@ -14,7 +14,8 @@ The summary of this analysis based on the visualizations is that a ride share pr
 
 *Dashboard Links*
 
-[Checkout Times for Users]<https://public.tableau.com/app/profile/jacyntha.mack/viz/Module14ChallengeCheckoutTimesforUsers/CheckoutTimesforUsers?publish=yes>
+[Checkout Times for Users]
+<https://public.tableau.com/app/profile/jacyntha.mack/viz/Module14ChallengeCheckoutTimesforUsers/CheckoutTimesforUsers?publish=yes>
 
 [Checkout Times by Gender]<https://public.tableau.com/authoring/Module14_16571595421060/CheckoutTimesbyGender#1>
 
