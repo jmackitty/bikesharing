@@ -13,11 +13,18 @@ We have created a story in tableau that shows check out times for users based on
 The summary of this analysis based on the visualizations is that a ride share program in Des Moines should be successful. Most users will ride for 30 minutes or less between 7:00AM to 7:00PM. This seems to be a good way for tourists to get around the city and explore as well. There are higher demands during commuting hours, mornings from 7-8AM and evenings, 5-6PM, and males account for the most rides. The potential investors should see that there a huge opportunity for the bike sharing system in Des Moines. 
 
 *Dashboard Links*
+
 [Checkout Times for Users]<https://public.tableau.com/app/profile/jacyntha.mack/viz/Module14ChallengeCheckoutTimesforUsers/CheckoutTimesforUsers?publish=yes
+
 [Checkout Times by Gender]<https://public.tableau.com/authoring/Module14_16571595421060/CheckoutTimesbyGender#1>
+
 [Trips by Weekday for EachHour]<https://public.tableau.com/authoring/Module14_16571595421060/TripsbyWeekdayforEachHour#1>
+
 [Gender Weekday per Hour]<https://public.tableau.com/authoring/Module14_16571595421060/GenderWeekdayperHour#1>
+
 [User Trips by Gender by Weekday]<https://public.tableau.com/authoring/Module14_16571595421060/UserTripsbyGenderbyWeekday#1>
+
 [August Peak Hours]<https://public.tableau.com/authoring/Module14_16571595421060/AugustPeakHours#1>
+
 [Gender Breakdown]<https://public.tableau.com/authoring/Module14_16571595421060/GenderBreakdown#1>
 
